@@ -15,4 +15,3 @@ Para jugar en la versión web:
 2. Alternativamente, puedes jugar directamente desde este sitio web utilizando GitHub Pages.
 
 ¡Prepárate para encontrar todos los huevos escondidos y descubrir lo que te espera!
-
